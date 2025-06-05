@@ -1,0 +1,34 @@
+.timer-container {
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem 0;
+}
+
+.timer-bg {
+    fill: none;
+    stroke: #ecf0f1;
+}
+
+.timer-progress {
+    fill: none;
+    stroke: #e74c3c;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 1s linear;
+}
+
+.timer-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    fill: #2c3e50;
+}
+
+@media (max-width: 600px) {
+    .timer-svg {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .timer-text {
+        font-size: 1.2rem;
+    }
+}
