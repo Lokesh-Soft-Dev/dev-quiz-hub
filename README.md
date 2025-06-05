@@ -26,31 +26,6 @@ A feature-rich quiz application built with React, designed to test and improve y
 
 ---
 
-## 📁 Folder Structure
-src/
-├── components/
-│ ├── Home.js
-│ ├── Quiz.js
-│ ├── Question.js
-│ ├── Timer.js
-│ ├── Results.js
-│ └── Leaderboard.js
-├── data/
-│ └── questions.js
-├── styles/
-│ ├── Home.css
-│ ├── Quiz.css
-│ ├── Question.css
-│ ├── Timer.css
-│ ├── Results.css
-│ └── Leaderboard.css
-└── App.js
-
----
-
-
----
-
 ## 🧪 Tech Topics Covered
 
 Your quiz questions span:
