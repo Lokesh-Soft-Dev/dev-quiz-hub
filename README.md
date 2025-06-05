@@ -2,7 +2,7 @@
 
 A feature-rich quiz application built with React, designed to test and improve your knowledge across core web development and foundational technologies like HTML, CSS, JavaScript, React, SQL, Linux, and more.
 
-## Live Demo : developers-quiz-hub.netlify.app
+## Live Demo : https://developers-quiz-hub.netlify.app/
 ---
 
 ## 🚀 Features
