@@ -1,12 +1,73 @@
-# React + Vite
+# 🧠 Dev Quiz Hub
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich quiz application built with React, designed to test and improve your knowledge across core web development and foundational technologies like HTML, CSS, JavaScript, React, SQL, Linux, and more.
 
-Currently, two official plugins are available:
+## Live Demo :
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🎯 **Multiple Technology Domains** – Covers HTML, CSS, JavaScript, React, SQL, Linux, and core tech concepts.
+- 🔀 **Randomized Questions** – Each quiz attempt gives a fresh set of questions.
+- ⏳ **Countdown Timer** – 15-second timer for each question to keep things exciting.
+- 🧮 **Real-Time Scoring** – Tracks your correct answers as you progress.
+- 🏆 **Leaderboard** – Displays top 10 performers with their scores and timestamps.
+- 🔁 **Retry & Reset** – Take the quiz again to improve your score.
+- 📱 **Responsive UI** – Smooth user experience across desktop and mobile.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍💻 Built With
+
+- **React** – Functional components & Hooks
+- **JavaScript (ES6+)**
+- **CSS Modules** – Custom styles for all components
+- **Local State Management** – No external state libraries required
+
+---
+
+## 📁 Folder Structure
+src/
+├── components/
+│ ├── Home.js
+│ ├── Quiz.js
+│ ├── Question.js
+│ ├── Timer.js
+│ ├── Results.js
+│ └── Leaderboard.js
+├── data/
+│ └── questions.js
+├── styles/
+│ ├── Home.css
+│ ├── Quiz.css
+│ ├── Question.css
+│ ├── Timer.css
+│ ├── Results.css
+│ └── Leaderboard.css
+└── App.js
+
+---
+
+
+---
+
+## 🧪 Tech Topics Covered
+
+Your quiz questions span:
+
+- ✅ HTML semantics, tags, forms, and accessibility
+- 🎨 CSS flexbox, grid, media queries, animations
+- 🧠 JavaScript fundamentals, ES6+, closures, promises
+- ⚛️ React basics, hooks, components, props/state
+- 🗃️ SQL basics and queries
+- 💻 Linux commands and shell basics
+- 🖥️ Computer science foundations like recursion and algorithms
+
+---
+
+## 🙋‍♀️ Made By
+
+## LOKESH K
+
+---
+
