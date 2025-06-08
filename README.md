@@ -28,7 +28,7 @@ A feature-rich quiz application built with React, designed to test and improve y
 
 ## 🧪 Tech Topics Covered
 
-Your quiz questions span:
+> Your quiz questions span:
 
 - ✅ HTML semantics, tags, forms, and accessibility
 - 🎨 CSS flexbox, grid, media queries, animations
