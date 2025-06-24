@@ -40,7 +40,7 @@ A feature-rich quiz application built with React, designed to test and improve y
 
 ---
 
-## 🙋‍♀️ Made By
+## ©️ Made By 👨‍💻
 
 ## LOKESH K
 
