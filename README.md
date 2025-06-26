@@ -4,7 +4,6 @@ A feature-rich quiz application built with React, designed to test and improve y
 
 ## Live Demo : https://developers-quiz-hub.netlify.app/
 ---
-
 ## 🚀 Features
 
 - 🎯 **Multiple Technology Domains** – Covers HTML, CSS, JavaScript, React, SQL, Linux, and core tech concepts.
